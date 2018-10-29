@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Phoebus Marvel</string>
+    <string name="title_activity_detalhamento">Detalhamento</string>
+    <string name="title_activity_carrinho">Carrinho</string>
+</resources>
